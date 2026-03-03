@@ -39,7 +39,6 @@
 	{
 		path: '/todo-list',
 		name: 'TodoList',
-		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
 	{
@@ -47,6 +46,18 @@
 		name: 'Quản lý sản phẩm',
 		icon: 'TableOutlined',
 		component: './SanPham',
+	},
+	{
+		path: '/baitap-02',
+		name: 'Bài Tập 02',
+		icon: 'TableOutlined',
+		component: './Baitap2',
+	},
+	{
+		path: '/th01',
+		name: 'TH01',
+		icon: 'TableOutlined',
+		component: './TH01',
 	},
 
 	// DANH MUC HE THONG
