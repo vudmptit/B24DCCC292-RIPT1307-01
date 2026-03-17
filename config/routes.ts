@@ -65,6 +65,12 @@
 		icon: 'TableOutlined',
 		component: './TH02',
 	},
+	{
+		path: '/th03',
+		name: 'TH03',
+		icon: 'TableOutlined',
+		component: './TH03',
+	},	
 
 	// DANH MUC HE THONG
 	// {
