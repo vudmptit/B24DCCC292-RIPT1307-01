@@ -1,16 +1,16 @@
 import { Tabs } from "antd";
-import App from "./ClubManager";
+import App from "./CourseManager";
 
 const { TabPane } = Tabs;
 
-const TH05 = () => {
+const TH07 = () => {
     return (
         <Tabs defaultActiveKey="1">
-            <TabPane tab="Quản lý" key="1">
+            <TabPane tab="Quản lý Khóa học" key="1">
                 <App />
             </TabPane>
         </Tabs>
     );
 };
 
-export default TH05;
+export default TH07;
