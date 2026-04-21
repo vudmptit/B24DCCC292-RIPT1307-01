@@ -89,6 +89,12 @@ export default [
         icon: 'TableOutlined',
         component: './KTGK',
     },
+    {
+        path: '/th07',
+        name: 'TH07',
+        icon: 'TableOutlined',
+        component: './TH07',
+    },
 
     // DANH MUC HE THONG
     // {

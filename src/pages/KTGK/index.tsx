@@ -3,7 +3,7 @@ import App from "./CourseManager";
 
 const { TabPane } = Tabs;
 
-const TH07 = () => {
+const KTGK = () => {
     return (
         <Tabs defaultActiveKey="1">
             <TabPane tab="Quản lý Khóa học" key="1">
@@ -13,4 +13,4 @@ const TH07 = () => {
     );
 };
 
-export default TH07;
+export default KTGK;
